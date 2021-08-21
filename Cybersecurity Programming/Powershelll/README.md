@@ -1,22 +1,6 @@
 # About
 
-This assigment was about create a module with his manifest and a menu called `menuFC.ps1` which call functions from the module created.
-```
------Welcome-----
-
-Choose an option
-		[1] Check Profile Status
-		[2] Change Profile Status
-		[3] Check Network Profile
-		[4] Change Network Profile
-		[5] Check Blocking Rules
-		[6] Add Blocking Rules
-		[7] Delete Blocking Rules
-		[8] Exit
-:
-```
-
-The functions in the module called `FC.psm1` allows you to check for 
+This assigment was about create a module with his manifest and a menu called `menuFC.ps1` which call functions from the module created. The functions in the module called `FC.psm1` allows you to check for 
 
 - Firewall profile status 
 
@@ -53,4 +37,5 @@ while($m){
     }
 }
 ```
+
 Which is going to stop just if you want it, if not the whole menu will be shown in screen, it also validates for the correct options so if you choose a wrong option the menu will be displayed again 
