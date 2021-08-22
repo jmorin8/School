@@ -39,3 +39,23 @@ while($m){
 ```
 
 Which is going to stop just if you want it, if not the whole menu will be shown in screen, it also validates for the correct options so if you choose a wrong option the menu will be displayed again 
+
+
+
+
+
+
+
+# Module Functions
+```
+CommandType     Name                                               Version    Source
+-----------     ----                                               -------    ------
+Function        Check-ProfilleStat                                 1.0        FC
+Function        Change-ProfileStat                                 1.0        FC
+Function        Check-NetProfile                                   1.0        FC
+Function        Change-Netprofile                                  1.0        FC
+Function        Check-BlockingRules                                1.0        FC
+Function        Add-BlockingRules                                  1.0        FC
+Function        Del-BlockingRules                                  1.0        FC
+```
+As i explain before each functions has a different purpose 
