@@ -28,6 +28,23 @@ As i explain before each functions has a different purpose
 
 
 # Main Script
+```
+-----Welcome-----
+
+Choose an option
+                [1] Check Profile Status
+                [2] Change Profile Status
+                [3] Check Network Profile
+                [4] Change Network Profile
+                [5] Check Blocking Rules
+                [6] Add Blocking Rules
+                [7] Delete Blocking Rules
+                [8] Exit
+:
+```
+
+
+
 All the options are into a while loop 
 
 ```
