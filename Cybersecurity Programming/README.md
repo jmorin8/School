@@ -1,2 +1,2 @@
 # About
-This repository is for assignments in Cybersecurity programming subject 
+This repository is for assignments in `Cybersecurity Programming` subject 
