@@ -24,9 +24,19 @@ Function        Add-BlockingRules                                  1.0        FC
 Function        Del-BlockingRules                                  1.0        FC
 ```
 
-## Profile Status 
-*`Check`
-**`Change`
+### Profile Status 
+* `Check`
+* `Change`
+
+### Network Profile
+* `Check`
+* `Add`
+* `Delete`
+
+### Blocking Rules
+* `Check`
+* `Change`
+
 
 
 
