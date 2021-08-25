@@ -23,7 +23,10 @@ Function        Check-BlockingRules                                1.0        FC
 Function        Add-BlockingRules                                  1.0        FC
 Function        Del-BlockingRules                                  1.0        FC
 ```
-As i explain before each functions has a different purpose 
+
+## Profile Status 
+* `Check`
+** `Change`
 
 
 
@@ -45,5 +48,5 @@ Choose an option
 
 
 
-All the options are into a while loop which is going to stop just if you want it, if not the whole menu will be shown in screen, it also validates for the correct options so if you choose a wrong option the menu will be displayed again 
+All the options are into a while loop which is going to stop just if you want it, if not the whole menu will be shown in again, it also validates for the correct options so if you choose a wrong option the menu will be displayed again 
 
