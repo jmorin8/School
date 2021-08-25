@@ -25,8 +25,8 @@ Function        Del-BlockingRules                                  1.0        FC
 ```
 
 ## Profile Status 
-* `Check`
-** `Change`
+*`Check`
+**`Change`
 
 
 
