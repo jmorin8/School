@@ -10,4 +10,4 @@ This `Practice #1` was about to create two scripts one of them in `Bash` and the
 
 
 
-## PowerShell Scrip
+## PowerShell Script
