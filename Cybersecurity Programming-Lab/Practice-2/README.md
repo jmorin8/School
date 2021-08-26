@@ -4,7 +4,7 @@ This `Practice #1` was about to create two scripts one of them in `Bash` and the
 * a if condition
 * a loop
 * one function with a parameter
-
+ 
 
 ## Bash Script
 
