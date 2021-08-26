@@ -1,3 +1,4 @@
 # About 
 
-This `Practice #1` was about add a file from a remote origin 
+This `Practice #1` was about add a file from a remote origin.
+
