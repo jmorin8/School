@@ -29,9 +29,9 @@ function netScan {
             done
         fi
     }
-    #
-    for i in 192.168.64.{1..255}
-    do 
+
+    for i in xxx.xxx.xxx.{1..255} #change this for your IP
+    do
         is_alive $i & disown
     done
 
